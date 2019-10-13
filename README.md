@@ -1,2 +1,2 @@
 # readme.md
-Welcome to my mortfolio
+Welcome to my portfolio
