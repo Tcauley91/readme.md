@@ -123,4 +123,107 @@ h6 {
 /* end of index CSS */
 
  
+#Portfolio {
 
+    background: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 130px;
+    border: 2px #dddddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end of portfolio css */
+
+/* begining of contact css */
+
+#Contactme {
+
+    background: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 130px;
+    border: 2px #dddddd;
+    padding-bottom: 15px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  label {
+      background-color: #ffffff;
+      background-size: 960px;
+      color:#777777;
+      font-family: georgia;
+  }
+  
+  input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer ;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #4aaaa5;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border: 2px;
+    background-color: #ffffff;
+    padding: px;
+    
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+/* background of contact box */
+  #contactbox {
+
+    background: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border: 2px #dddddd;
+    margin-top: -20px
+  }
